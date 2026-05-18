@@ -1,11 +1,11 @@
 {
-  "version": "0.0.3",
-  "notes": "Release 0.0.3",
-  "pub_date": "2026-05-18T09:48:45.343Z",
+  "version": "0.0.4",
+  "notes": "Release 0.0.4",
+  "pub_date": "2026-05-18T09:59:25.093Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdDdITjhscUhVYndJWDA3d29GR0s0cGsxRW9wS0dXbC9jci9rQmMrTG5saDVUV05VN0RpNW1qZGJsNlZ2TUlsV21ZWEFPZWRYaXYvQkNPMng2M2RFSTFMdWxsWTdPNmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDk3NjMxCWZpbGU6dGF1cmktYXBwLmFwcC50YXIuZ3oKT0VKOGN5TTdGckRXVEFzZU90V1duM0tkRGxJNVltcExzNC96Sm9LbnhIMUNnMm83dWpMc09DRTZWVUxYMGNFV0VqM1dQWU52R1JDWE1sNWF2aERTQ3c9PQo=",
-      "url": "https://helloando.github.io/ando.github.com/downloads/tauri-app_0.0.3_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdDdITjhscUhVYjJYbTVGcWMyMEYzdWN2L1lreVVlYVRkcVJlNVBkcERqUGs5SjFiL1pvVWZ0NU9VV1FFZi9NaExvNFBQbkpKakhhekw0bE9yRXl5V2RDMVJWVmFPNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDk4MzY1CWZpbGU6dGF1cmktYXBwLmFwcC50YXIuZ3oKUzFhdTErNkQrNVFQNlF6dzNUNGptT01NOFFDTkZEcFNLbS9SdW41dFZEci9qSDdKZkVyeVlKTXFvZGJUUG9pV1EweGl5OXM4ZnkvdFB3bTZId0VrQkE9PQo=",
+      "url": "https://helloando.github.io/ando.github.com/downloads/tauri-app_0.0.4_darwin-aarch64.app.tar.gz"
     }
   }
 }
